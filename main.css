@@ -1,0 +1,17 @@
+#info {
+    width: 280px;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: hsl(200, 100%, 20%);
+    color: white;
+}
+
+#pause-button {
+    cursor: pointer;
+}
+
+#score {
+    cursor: default;
+}
